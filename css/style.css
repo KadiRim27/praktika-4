@@ -92,39 +92,17 @@ opacity: 0.88;
 .header__statistics {
     margin: 0px 0px 40px 0px;
 }
-.menu__Articals {
-    text-align: left;
-  margin: 0px 0px 20px 0px;
-}
 
-.menu__item-Articals{
-display: inline-block;
- 
-}
+
 
 .logo__icon__1{
-    background: url("../img/icon/logo-1.svg") 0 5px /16px no-repeat;
-    min-height: 16px;
-   padding: 0px 0px 0px 25px;
-}
-
-.logo__icon__2{
-    background: url("../img/icon/logo-2.svg") 0 3px /3px no-repeat;
-    min-height: 16px;
-   padding: 0px 0px 0px 15px;
-   font-weight: 700;
-   color: #FF3F3A;
-}
-
-
-.logo__icon__3{
     background: url("../img/icon/logo-3.svg") 0 5px /16px no-repeat;
     min-height: 16px;
    padding: 0px 0px 0px 25px;
 }
 
 
-.logo__icon__4{
+.logo__icon__2{
     background: url("../img/icon/logo-4.svg") 0 5px /16px no-repeat;
     min-height: 16px;
    padding: 0px 0px 0px 25px;
