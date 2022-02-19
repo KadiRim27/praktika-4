@@ -1,0 +1,242 @@
+@import "null.css";
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&family=Montserrat:ital,wght@0,400;0,900;1,700&family=Nunito:ital,wght@0,400;0,900;1,700&family=Open+Sans+Condensed:ital,wght@0,700;1,300&family=Raleway:ital,wght@0,700;1,400;1,900&family=Yellowtail&display=swap');
+
+@font-face{
+    font-family:"CircularStd";
+    src: url("../шрифты/CircularStd-Bold.woff2")format("woff2"),url("../шрифты/CircularStd-Bold.woff")format("woff");
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face{
+    font-family:"CircularStd";
+    src: url("../шрифты/CircularStd-Book.woff2")format("woff2"),url("../шрифты/CircularStd-Book.woff")format("woff");
+    font-weight: 700;
+    font-style: normal;
+}
+body{
+     font-family:"CircularStd";
+      font-weight: 400;
+    font-style: normal;
+    color: #5F5F5F;
+    font-size: 18px;
+     line-height: 1.5;
+}
+
+.wrapper {
+    overflow: hidden;
+    min-height: 100%;
+}
+.container {
+    max-width: 1025px;
+    margin:0 auto;
+}
+.header {
+    text-align: center;
+   margin: 0px 0px 67px 0px;
+}
+.title {
+font-weight:700;
+font-size: 65px;
+line-height: 1.2;
+color: #313131;
+margin: 0px 0px 20px 0px;
+}
+.text-title {
+font-size: 20px;
+line-height:1.25;
+
+}
+.great-info{
+background:url("../img/Image.jpg")right /486px 675px no-repeat;
+min-height: 675px;
+margin: 0px 0px 125px 0px;
+}
+.great-container {
+    max-width: 508px;
+   padding: 157px 49px 0px 0px;
+}
+.great-title {
+ font-weight:700;
+font-size: 34px;
+line-height: 1.3;
+color: #313131;
+opacity: 0.88;
+margin: 0px 0px 20px 0px;
+}
+.great-text{
+
+    margin: 0px 0px 125px 0px;
+}
+.imag-dragos{
+    margin: 0px 0px 40px 0px;
+}
+.name-dragos {
+color: #313131;
+opacity: 0.88;
+}
+.text-dragos {
+    color: #B8B8B8;
+}
+
+/* 2==============================================*/
+.statistics__block {
+    max-width: 810px;
+    margin: 0 auto;
+    font-family:"Lato";
+    font-size: 16px;
+    line-height: 1.6;
+    color: #424551;
+    margin: 0px 0px 60px 0px;
+}
+.header__statistics {
+    margin: 0px 0px 40px 0px;
+}
+.menu__Articals {
+    text-align: left;
+  margin: 0px 0px 20px 0px;
+}
+
+.menu__item-Articals{
+display: inline-block;
+ 
+}
+
+.logo__icon__1{
+    background: url("../img/icon/logo-1.svg") 0 5px /16px no-repeat;
+    min-height: 16px;
+   padding: 0px 0px 0px 25px;
+}
+
+.logo__icon__2{
+    background: url("../img/icon/logo-2.svg") 0 3px /3px no-repeat;
+    min-height: 16px;
+   padding: 0px 0px 0px 15px;
+   font-weight: 700;
+   color: #FF3F3A;
+}
+
+
+.logo__icon__3{
+    background: url("../img/icon/logo-3.svg") 0 5px /16px no-repeat;
+    min-height: 16px;
+   padding: 0px 0px 0px 25px;
+}
+
+
+.logo__icon__4{
+    background: url("../img/icon/logo-4.svg") 0 5px /16px no-repeat;
+    min-height: 16px;
+   padding: 0px 0px 0px 25px;
+}
+
+.menu__Augustin {
+    text-align: left;
+}
+.menu__item-Augustin {
+    display: inline-block;
+    margin: 0px 24px 0px 0px;
+      color: #787A80;
+      font-weight:700;
+}
+.imag{
+    margin: 0px 0px 60px 0px;
+}
+
+.statistics__title {
+font-weight: 900;
+font-size: 46px;
+line-height: 1.3;
+color: #1E212C;
+ margin: 0px 0px 26px 0px;
+}
+.menu__Share {
+    text-align: right;
+}
+
+.menu__item__Share {
+    display: inline-block;
+      margin: 0px 12px 0px 0px;
+      color: #1E212C;
+}
+
+
+.statistics__content {
+ font-family:"Lato";
+}
+
+.content__vulputate {
+font-weight:700;
+font-size: 20px;
+line-height: 1.5;
+color: #1E212C; 
+margin: 0px 0px 25px 0px;
+}
+
+.content__facilisi,.content__amet,.content__ipsum {
+    margin: 0px 0px 26px 0px;
+}
+
+
+.content__ipsum {
+    background:url("../img/icon/braces.svg")0 0/auto no-repeat;
+    padding: 0px 0px 0px 48px;
+    margin: 0px 0px 26px 0px;
+}
+
+
+.content__mauris,.info__list{
+    margin: 0px 0px 26px 0px;
+}
+
+.item__info {
+     background:url("../img/icon/check.svg")0 5px /16px no-repeat;
+     min-height: 20px;
+     padding: 0px 0px 0px 35px; 
+}
+
+.why__blok {
+  max-width: 390px;
+  margin: 0 auto;
+  font-family: "Lato";
+font-style: normal;
+margin: 0px 0px 60px 0px;
+color: #1E212C;
+}
+.why__logo {
+font-weight:900;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 1px;
+text-transform: uppercase;
+margin: 0px 0px 10px 0px;
+}
+.why__title {
+font-weight: 900;
+font-size: 46px;
+line-height: 1.3;
+margin: 0px 0px 40px 0px;
+
+}
+.why__item {
+      background:url("../img/icon/check.svg")0 5px /16px no-repeat;
+     min-height: 20px;
+     padding: 0px 0px 0px 35px; 
+}
+.why__menu__list {
+    margin: 0px 0px 48px 0px;
+}
+
+.button {
+  background: linear-gradient(55.95deg, #FF3F3A 0%, #F75E05 100%);
+border-radius: 4px;
+font-weight:900;
+font-size: 14px;
+line-height: 44px;
+display: inline-block;
+align-items: center;
+text-align: center;
+letter-spacing: 0.5px;
+color: #FFFFFF;
+padding: 10px 32px 10px 32px;
+}
